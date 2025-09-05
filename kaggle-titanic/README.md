@@ -1,5 +1,5 @@
 # Get started project on Kaggle
-Harry Potter just arrived in Kaggle.
+I have just arrived in Kaggle.
 I have to answer the question.
 "Who died in the accident?"
 ## Citation(BibTex)
