@@ -1,7 +1,7 @@
 # kaggle-universe
 Hi, I'm Data Wizard 👋
 🎓 Math Graduate | 📊 Aspiring AI-trainer
-- 🔭 Currently learning: ML-modeling
+- 🔭 Currently learning: ML : modeling
 This repository contains my practice projects for learning ML on Kaggle
 
 ## Contents
@@ -11,7 +11,7 @@ This repository contains my practice projects for learning ML on Kaggle
 
 
 ## Goals
-- Strengthen MLtraining skills
+- Strengthen ML - training skills
 - Build portfolio projects
 - Prepare for junior ML trainer
 
