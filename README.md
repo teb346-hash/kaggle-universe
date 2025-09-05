@@ -1,5 +1,5 @@
 # kaggle-universe
-Hi, I'm Data Wizard 👋
+Hi, I am Data Wizard 👋
 🎓 Math Graduate | 📊 Aspiring AI-trainer
 - 🔭 Currently learning: ML : modeling
 This repository contains my practice projects for learning ML on Kaggle
